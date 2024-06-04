@@ -4,8 +4,8 @@
 - Vite
 - JavaScript
 - HTML/CSS
-- API Integration
-
+- TailwindCSS
+  
 ## Getting Started
 
 To run this project locally, follow these steps:
