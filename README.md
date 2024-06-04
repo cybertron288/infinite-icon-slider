@@ -1,20 +1,37 @@
-# React Icon Slider
+## Technologies Used
 
-![npm version](https://img.shields.io/npm/v/react-icon-slider)
-![license](https://img.shields.io/npm/l/react-icon-slider)
-![downloads](https://img.shields.io/npm/dt/react-icon-slider)
+- React
+- Vite
+- JavaScript
+- HTML/CSS
+- API Integration
 
-A lightweight and easy-to-use React library for creating customizable icon sliders.
+## Getting Started
 
-## Features
+To run this project locally, follow these steps:
 
-- **Easy Integration**: Simple API to integrate into any React project.
-- **Customizable**: Fully customizable icons, sizes, and animations.
-- **Responsive Design**: Automatically adjusts to different screen sizes.
-- **Lightweight**: Minimal dependencies for fast performance.
-- **Accessibility**: Keyboard navigable and screen reader friendly.
+1. Clone the repository:
 
-## Installation
+```
+git clone git@github.com:cybertron288/infinite-icon-slider.git
+```
 
-```bash
-npm install react-icon-slider
+2. Navigate to the project directory:
+
+```
+cd infinite-icon-slider
+```
+
+3. Install the dependencies:
+
+```
+yarn install
+```
+
+4. Start the development server:
+
+```
+yarn dev
+```
+
+5. Open your browser and visit `http://localhost:1234` to see the project in action.
